@@ -1,0 +1,23 @@
+⚙️ Features
+✅ GUI-based interface using Tkinter
+🔐 Save website, email/username, and password data
+🔁 Generate strong, random passwords
+📋 Copy passwords to clipboard
+📁 Stores data in a local JSON file (data.json)
+🔎 Search for saved credentials
+
+🛠️ Tech Stack
+Language: Python
+GUI: Tkinter
+Data Storage: JSON file
+Modules Used: tkinter, random, json, pyperclip
+
+🧠 How It Works
+Enter the website name, email/username, and password.
+You can generate a strong password by clicking the "Generate Password" button.
+Click "Add" to save the data into a JSON file.
+Use the "Search" function to retrieve stored credentials.
+
+🚀 How to Run
+Make sure Python is installed on your system.
+Install the required libraries (if not already installed):
